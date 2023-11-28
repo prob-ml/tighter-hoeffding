@@ -1,5 +1,5 @@
 # tighter-hoeffding
 
-Install via `pip install https://github.com/prob-ml/tighter-hoeffding.git@main`.
+Install via `pip install tighterhoeffding`.
 
-See "example_use.ipynb" for usage information.
+See "example_use.ipynb" (at https://github.com/prob-ml/tighter-hoeffding) for usage information.
